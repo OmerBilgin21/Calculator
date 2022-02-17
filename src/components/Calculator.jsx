@@ -5,11 +5,11 @@ const Calculator = () => {
         <section>
             <div className="container">
 
-
+                
 
                 <input type="" class="screen" />
 
-                
+
                     <div className="first">
                         <button class="span-three">c</button>
                         <button>/</button>

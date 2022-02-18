@@ -38,6 +38,8 @@ section{
     font-weight: bold;
     border: 1px solid #eee;
     text-align: right;
+    background-color: black;
+    color: white;
 }
 
 button{
@@ -53,6 +55,8 @@ button{
 button:hover{
     opacity: 0.5;
 }
+
+
 
 .span-three{
     width: 150px;

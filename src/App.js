@@ -5,7 +5,7 @@ import Calculator from './components/Calculator.jsx';
 function App() {
   return (
     <Calculator>
-
+      
     </Calculator>
   );
 }
